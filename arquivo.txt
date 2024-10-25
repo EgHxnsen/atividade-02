@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 primeira alteração
+=======
+texto escrito na branch auxiliar
+>>>>>>> auxiliar
